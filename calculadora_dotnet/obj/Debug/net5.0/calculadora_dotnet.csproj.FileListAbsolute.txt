@@ -1,0 +1,16 @@
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.exe
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.deps.json
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.runtimeconfig.json
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.runtimeconfig.dev.json
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.dll
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\ref\calculadora_dotnet.dll
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\bin\Debug\net5.0\calculadora_dotnet.pdb
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.AssemblyInfoInputs.cache
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.AssemblyInfo.cs
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.dll
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\ref\calculadora_dotnet.dll
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.pdb
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.genruntimeconfig.cache
+C:\Users\paulo.mendes\source\repos\calculadora_dotnet\calculadora_dotnet\obj\Debug\net5.0\calculadora_dotnet.csproj.AssemblyReference.cache
